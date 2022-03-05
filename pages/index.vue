@@ -1,5 +1,11 @@
 <template>
-  <main class="main" />
+	<main class="main">
+		<ul class="test">
+			<li>
+				test
+			</li>
+		</ul>
+	</main>
 </template>
 
 <script lang="ts">
@@ -9,3 +15,7 @@ export default Vue.extend({
 	name: 'IndexPage'
 })
 </script>
+
+<style lang="scss">
+@import '@/assets/style/main.scss';
+</style>
