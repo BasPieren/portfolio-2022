@@ -1,10 +1,6 @@
 <template>
 	<main class="main">
-		<ul class="test">
-			<li>
-				test
-			</li>
-		</ul>
+		<h1>Hello world!</h1>
 	</main>
 </template>
 

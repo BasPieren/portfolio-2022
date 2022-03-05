@@ -1,1 +1,10 @@
 @import './reset.scss';
+@import './variables.scss';
+@import './fonts.scss';
+@import './typography.scss';
+
+.main {
+	position: relative;
+	min-height: 100vh;
+	overflow: hidden;
+}
